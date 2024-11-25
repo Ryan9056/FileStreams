@@ -1,0 +1,16 @@
+Dog
+Pet
+1
+50.0
+Cat
+Pet
+2
+60.0
+Cow
+Livestock
+3
+70.0
+Pig
+Livestock
+4
+40.0
